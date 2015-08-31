@@ -67,4 +67,4 @@
 * [构建说明(Mac)](development/build-instructions-mac.md)
 * [构建说明(Windows)](development/build-instructions-windows.md)
 * [构建说明(Linux)](development/build-instructions-linux.md)
-* [配置symbol server in 调试器](development/setting-up-symbol-server.md)
+* [在调试器中配置symbol server](development/setting-up-symbol-server.md)
